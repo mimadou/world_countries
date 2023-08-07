@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34978917.css",
+    "main.js": "/static/js/main.3d496e58.js",
+    "static/media/main.jpg": "/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/index.html",
+    "main.34978917.css.map": "/static/css/main.34978917.css.map",
+    "main.3d496e58.js.map": "/static/js/main.3d496e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34978917.css",
+    "static/js/main.3d496e58.js"
+  ]
+}
